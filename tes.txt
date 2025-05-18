@@ -1,0 +1,3 @@
+Nama = Muhammad Fariz
+Divisi = Programming
+Sub Divisi = Machine Learning
